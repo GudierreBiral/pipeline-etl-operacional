@@ -1,4 +1,4 @@
-Prova Python – Automação e Tratamento de Dados
+Automação e Tratamento de Dados
 
 Objetivo
 Este conjunto de scripts Python foi desenvolvido para automatizar o processo de coleta, extração, organização e tratamento de arquivos operacionais utilizados no relatório Intraday.
@@ -72,4 +72,4 @@ O código foi estruturado visando clareza, organização e facilidade de manuten
 O tratamento de arquivos e dados foi pensado para evitar retrabalho e garantir consistência no processo de carga.
 
 Resultado Esperado
-Ao final da execução dos scripts, os arquivos estarão organizados e prontos para serem utilizados nos processos de carga em banco de dados e na construção dos dashboards no Power BI, conforme especificado na prova.
+Ao final da execução dos scripts, os arquivos estarão organizados e prontos para serem utilizados nos processos de carga em banco de dados e na construção dos dashboards no Power BI.
