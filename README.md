@@ -10,7 +10,7 @@ O projeto cobre todas as etapas de um pipeline de dados moderno: desde a extraç
 
 ```
 ┌─────────────────────┐     ┌──────────────────────┐     ┌─────────────────┐
-│      01_python       │────▶│       02_sql          │────▶│   03_powerbi    │
+│      01_python        ──▶       02_sql            ──▶     03_powerbi    │
 │                     │     │                      │     │                 │
 │  Extração via API   │     │  Staging → Dimensões │     │   Dashboard     │
 │  Automação Selenium │     │  Fato → View         │     │   Operacional   │
