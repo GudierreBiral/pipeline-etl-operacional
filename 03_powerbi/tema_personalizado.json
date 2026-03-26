@@ -1,0 +1,51 @@
+{
+    "name": "tema_personalizado",
+    "dataColors": [
+        "#0047BA",
+        "#0072CE",
+        "#00B5E2",
+        "#414141",
+        "#FF6B6B",
+        "#F2F2F2",
+        "#002D72",
+        "#80CBE5"
+    ],
+    "background": "#FFFFFF",
+    "foreground": "#0047BA",
+    "tableAccent": "#0047BA",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "background": [
+                    {
+                        "show": true,
+                        "color": { "solid": { "color": "#FFFFFF" } },
+                        "transparency": 0
+                    }
+                ],
+                "visualCorners": [
+                    {
+                        "radius": 10
+                    }
+                ],
+                "border": [
+                    {
+                        "show": true,
+                        "color": { "solid": { "color": "#F2F2F2" } },
+                        "radius": 10
+                    }
+                ]
+            }
+        },
+        "page": {
+            "*": {
+                "background": [
+                    {
+                        "color": { "solid": { "color": "#F2F2F2" } },
+                        "transparency": 0
+                    }
+                ]
+            }
+        }
+    }
+}
